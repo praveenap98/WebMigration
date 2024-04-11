@@ -1,0 +1,6 @@
+financials.Country,Sum(financials. Sales),Sum(financials.COGS)
+United States of America,25029830,22034288
+Canada,24887652,21358427
+France,24354179,20573152
+Germany,23505342,19824952
+Mexico,20949346,18041829
